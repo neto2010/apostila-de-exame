@@ -1,0 +1,57 @@
+    .amarelo {
+        background: yellow;
+    }
+
+     .laranja {
+        background: orange;
+    }
+
+    .verde {
+        background: green;
+    }
+
+     .azul-claro {
+        background: rgb(0, 195, 255);
+    }
+
+    .azul-escuro {
+        background: blue;
+    }
+
+      .roxo {
+        background: purple;
+    }
+
+     .vermelho {
+        background: red;
+    }
+
+    .vermelho-preto {
+        background: rgb(190, 26, 26);
+    }
+
+    .preto {
+        color: white;
+        background: black;
+    }
+
+    img {
+    height: 150px;
+    }
+
+    .taegeuk {
+        display: flex;
+    }
+
+    .borda {
+        border: solid 2px;
+        margin: 10px;
+        padding-left: 20px;
+    }
+
+    .passo {
+        display: none;
+    }
+    .passo.ativo{
+        display: block;
+    }
