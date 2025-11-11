@@ -49,6 +49,10 @@
         padding-left: 20px;
     }
 
+    .btn-proximo {
+        height: 50px;
+    }
+
     .passo {
         display: none;
     }
