@@ -41,6 +41,7 @@
 
     .taegeuk {
         display: flex;
+        gap: 5px;
     }
 
     .borda {
