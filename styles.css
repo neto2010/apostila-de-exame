@@ -32,7 +32,9 @@
     }
 
     .vermelho-preto {
-        background: rgb(190, 26, 26);
+        background-image: linear-gradient(
+            to right, red, black
+        )
     }
 
     .preto {
